@@ -12,3 +12,5 @@ async def root():
 async def say_hello(name: str):
     return {"message": f"Hello {name}"}
 djhjwd
+
+#Ponemos comentarios asi de los codigos porque en commmits muy duro JAJAJ
